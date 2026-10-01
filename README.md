@@ -1041,3 +1041,21 @@ También se puede ejecutar con Node.js:
 ```bash
 npm install
 npm start
+## Cómo subirlos a `-oxi-demo`
+
+Hazlo directamente desde GitHub:
+
+1. Entra en el repositorio **`-oxi-demo`**.
+2. Pulsa **Add file**.
+3. Pulsa **Create new file**.
+4. Crea `index.html` y pega el primer bloque.
+5. Pulsa **Commit changes**.
+6. Repite exactamente lo mismo con:
+   - `styles.css`
+   - `app.js`
+   - `package.json`
+   - `README.md`
+
+**No los metas dentro de una carpeta.** Los cinco deben quedar en la raíz del repositorio, al mismo nivel.
+
+Cuando estén subidos, el siguiente paso será ponerlo **online con GitHub Pages** para que mañana puedas abrir la demo desde un móvil u ordenador con un enlace, sin instalar nada.
